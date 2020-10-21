@@ -1,3 +1,5 @@
 Test file 1
 1:19
-added by nathaniel on 10/21 at 1:27
+<<<<<<< HEAD
+added by nathaniel on 10.21 at 1:26
+line added by Nathaniel on 10/21 at 1:30
